@@ -1,5 +1,6 @@
 
 -- task_3.sql
 
--- LIST ALL TABLES IN THE CURRENT DATABASE
-SHOW TABLES FROM alx_book_store;
+USE alx_book_store;
+
+SHOW TABLES;
